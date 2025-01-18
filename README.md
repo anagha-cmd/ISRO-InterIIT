@@ -1,1 +1,2 @@
-# ISRO-InterIIT
+# ISRO-MidPrep
+MidPrep | ISRO
